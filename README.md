@@ -27,3 +27,10 @@ devoluciones de abastecimiento hospitalario.
 - Ignacio Perez
 - Javiera Tabilo
 
+## Instalación
+
+- npm install
+
+## Ejecución
+
+- npm run dev
